@@ -1,0 +1,3 @@
+* Misc Urbit Scripts
+- The files in =lib= should be symlinked to the properly location in
+  one's zod or nec
